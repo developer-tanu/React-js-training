@@ -1,1 +1,1 @@
-document.write('this is my first program')
+document.write('this is my first program in js')
