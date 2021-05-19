@@ -1,1 +1,1 @@
-alert('this is my first program in js')
+alert('this is my first program in js by using git')
