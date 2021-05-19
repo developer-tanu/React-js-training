@@ -1,1 +1,1 @@
-alert('this is my first program')
+alert('this is my first program in js')
